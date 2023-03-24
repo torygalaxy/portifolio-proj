@@ -1,0 +1,149 @@
+.ANG{
+    position: absolute;
+    width: 120px;
+    height: 88px;
+    left: 200px;
+    top: 189px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #ffff;
+    
+
+}
+.ELO{
+    position: absolute;
+    width: 292px;
+    height: 88px;
+    left: 338px;
+    top: 189px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #f6e6bc;
+    
+}
+.GABR{
+    position: absolute;
+    width: 120px;
+    height: 88px;
+    left: 330px;
+    top: 245px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #ffff;
+    
+
+}
+.IEL{
+    position: absolute;
+    width: 292px;
+    height: 88px;
+    left: 513px;
+    top: 245px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #f6e6bc;
+    
+}
+.AngeloPng
+{
+    position: absolute;
+    top: 330px;
+    left: 221px;
+}
+.AngeloPng:hover a{
+    color: black;
+}
+
+
+.SAR{
+    position: absolute;
+    width: 292px;
+    height: 88px;
+    right: 338px;
+    top: 189px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #f6e6bc;
+    
+
+}
+.AH{
+    position: absolute;
+    width: 292px;
+    height: 88px;
+    right: 208px;
+    top: 189px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #ffff;
+    
+}
+.VITO{
+    position: absolute;
+    width: 120px;
+    height: 88px;
+    right: 380px;
+    top: 245px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #f6e6bc;
+    
+
+}
+.RIA{
+    position: absolute;
+    width: 292px;
+    height: 88px;
+    right: 50px;
+    top: 245px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #ffff;
+    
+}
+.SarahPng
+{
+    position: absolute;
+    top: 330px;
+    right: 221px;
+}
