@@ -1,0 +1,28 @@
+body{
+    background: rgb(239,51,177);
+    background: linear-gradient(90deg, rgba(239,51,177,1) 0%, rgba(246,230,188,1) 100%);
+}
+
+.imgPort{
+    position: absolute;
+    left: 43%;
+    top: 0px;
+}
+.imagem:hover 
+
+{ background-color: #000000; 
+
+transition: 0.5s;
+
+opacity: 0.10;
+
+}
+.imagemdois:hover 
+
+{ background-color: #000000; 
+
+transition: 0.5s;
+
+opacity: 0.11;
+
+}
